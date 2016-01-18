@@ -1,0 +1,614 @@
+ba_brewery_state,ba_bros_val,ba_avg_score,ba_abv,ba_style,ba_phone,ba_brewery_name,ba_phone_key,ba_beer_name,ba_ratings_count,ba_brewery_city
+CA,90,3.82,7.00,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,21st Amendment IPA,"2,302",San Francisco
+CA,-,3.97,6.00,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,5-South,32,San Francisco
+CA,-,3.76,5.40,American Amber / Red Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Amber Waves,18,San Francisco
+CA,72,3.68,6.80,American Black Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Back In Black,"2,267",San Francisco
+CA,-,3.94,7.20,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Batch #0001,12,San Francisco
+CA,-,3.83,9.90,Belgian IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Beast Of Burden,3,San Francisco
+CA,-,-,9.00,American Double / Imperial IPA,(415) 369-0900,21st Amendment Brewery,4153690900,"Beer ""Rye""volution",5,San Francisco
+CA,-,3.89,9.60,American Black Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Bike Lane Hopper,8,San Francisco
+CA,-,3.85,7.00,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Brew Free Or Die IPA,814,San Francisco
+CA,-,2.38,8.40,American Double / Imperial Stout,(415) 369-0900,21st Amendment Brewery,4153690900,California Love,2,San Francisco
+CA,-,3.88,8.40,American Double / Imperial IPA,(415) 369-0900,21st Amendment Brewery,4153690900,California Love Oaked Imperial Red Ale,2,San Francisco
+CA,-,2.85,7.80,Extra Special / Strong Bitter (ESB),(415) 369-0900,21st Amendment Brewery,4153690900,Churchyard,2,San Francisco
+CA,-,3.77,5.00,American Blonde Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Conventioneer,3,San Francisco
+CA,-,-,6.80,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Dankopotamus,1,San Francisco
+CA,-,4.22,7.50,American Brown Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Devil's Friend,3,San Francisco
+CA,-,3.86,4.40,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Down To Earth Session IPA,317,San Francisco
+CA,-,-,5.60,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,Dr. Frudi,3,San Francisco
+CA,-,3.59,8.30,Belgian Strong Dark Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Drunken Monk Ale,16,San Francisco
+CA,-,3.67,10.20,American Double / Imperial IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Dub Step IPA,18,San Francisco
+CA,-,3.87,6.40,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Early Spring IPA,3,San Francisco
+CA,-,3.35,4.80,American Adjunct Lager,(415) 369-0900,21st Amendment Brewery,4153690900,El Sully,36,San Francisco
+CA,80,3.42,7.90,Winter Warmer,(415) 369-0900,21st Amendment Brewery,4153690900,Fireside Chat,"1,181",San Francisco
+CA,-,3.79,7.00,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Gigantes,41,San Francisco
+CA,-,4.15,8.00,Tripel,(415) 369-0900,21st Amendment Brewery,4153690900,Good Things,3,San Francisco
+CA,-,4,5.20,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,Grampa's Trike,1,San Francisco
+CA,-,3.96,6.40,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Harvest Moon,16,San Francisco
+CA,80,3.72,8.20,Baltic Porter,(415) 369-0900,21st Amendment Brewery,4153690900,He Said (Baltic Porter),489,San Francisco
+CA,90,3.79,8.20,Tripel,(415) 369-0900,21st Amendment Brewery,4153690900,He Said (Tripel),477,San Francisco
+CA,80,3.29,4.90,Fruit / Vegetable Beer,(415) 369-0900,21st Amendment Brewery,4153690900,Hell Or High Watermelon Wheat Beer,"2,515",San Francisco
+CA,-,3.18,9.30,American Double / Imperial Stout,(415) 369-0900,21st Amendment Brewery,4153690900,Hendrik's Russian Imperial Stout,14,San Francisco
+CA,87,3.97,9.70,American Double / Imperial IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Hop Crisis,"1,581",San Francisco
+CA,-,3.64,6.10,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,Hopduster,3,San Francisco
+CA,-,3.75,6.20,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Hops For Heroes: Homefront IPA,1,San Francisco
+CA,-,3.78,8.30,Extra Special / Strong Bitter (ESB),(415) 369-0900,21st Amendment Brewery,4153690900,Lord And Master,3,San Francisco
+CA,-,3.75,11.50,American Barleywine,(415) 369-0900,21st Amendment Brewery,4153690900,Lower De Boom Barleywine,672,San Francisco
+CA,-,3.91,7.90,English Stout,(415) 369-0900,21st Amendment Brewery,4153690900,Marooned On Hog Island,438,San Francisco
+CA,-,-,4.40,American Stout,(415) 369-0900,21st Amendment Brewery,4153690900,MCA Stout,14,San Francisco
+CA,-,3.6,5.70,American Amber / Red Lager,(415) 369-0900,21st Amendment Brewery,4153690900,Megra Nodelo,3,San Francisco
+CA,-,3.8,8.30,Belgian Strong Dark Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Monk's Blood,"1,339",San Francisco
+CA,-,3.91,10.50,American Double / Imperial IPA,(415) 369-0900,21st Amendment Brewery,4153690900,"Nelson, Jade And Helga",4,San Francisco
+CA,-,3.72,5.80,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,NorCal Middle-Earth,2,San Francisco
+CA,-,4.1,7.10,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,OG IPA,1,San Francisco
+CA,-,3.8,7.30,American Strong Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Old Glory,11,San Francisco
+CA,-,3.44,4.90,English Stout,(415) 369-0900,21st Amendment Brewery,4153690900,Oyster Point Oyster Stout,38,San Francisco
+CA,-,3.75,7.60,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Personality Crisis IPA,1,San Francisco
+CA,-,-,9.50,American Strong Ale,(415) 369-0900,21st Amendment Brewery,4153690900,POHW,0,San Francisco
+CA,-,-,7.50,American IPA,(415) 369-0900,21st Amendment Brewery,4153690900,Red Dwarf,2,San Francisco
+CA,-,3.63,11.00,American Strong Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Red Giant,3,San Francisco
+CA,-,3.5,12.80,American Strong Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Red Titan,1,San Francisco
+CA,-,-,5.10,Witbier,(415) 369-0900,21st Amendment Brewery,4153690900,San Leandro Cherry Wheat,2,San Francisco
+CA,83,3.57,6.20,Saison / Farmhouse Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Sneak Attack Saison,569,San Francisco
+CA,-,3.54,5.10,American Blonde Ale,(415) 369-0900,21st Amendment Brewery,4153690900,South Park Blonde,31,San Francisco
+CA,-,4.06,5.60,American Pale Ale (APA),(415) 369-0900,21st Amendment Brewery,4153690900,Springtime For Hallertau,2,San Francisco
+CA,-,-,5.40,American Porter,(415) 369-0900,21st Amendment Brewery,4153690900,Starry Night,1,San Francisco
+CA,-,3.38,5.50,American Pale Wheat Ale,(415) 369-0900,21st Amendment Brewery,4153690900,The White Flame,2,San Francisco
+CA,-,3.99,7.60,American Amber / Red Ale,(415) 369-0900,21st Amendment Brewery,4153690900,Toaster Pastry,353,San Francisco
+CA,-,-,6.50,Fruit / Vegetable Beer,(415) 369-0900,21st Amendment Brewery,4153690900,Two Rivers Cider,1,San Francisco
+CA,-,3.82,4.80,English Bitter,(415) 369-0900,21st Amendment Brewery,4153690900,Wild & Scenic,2,San Francisco
+CA,-,3.85,9.00,Tripel,,Almanac Beer Co.,,Almanac Emperor Norton,60,San Francisco
+CA,-,3.83,7.50,American IPA,,Almanac Beer Co.,,Almanac IPA,224,San Francisco
+CA,-,3.88,10.00,American Double / Imperial Stout,,Almanac Beer Co.,,Barbary Coast,27,San Francisco
+CA,-,3.66,5.60,American Porter,,Almanac Beer Co.,,Biere De Chocolat,209,San Francisco
+CA,-,4.25,7.00,American Wild Ale,,Almanac Beer Co.,,Citra Sour,183,San Francisco
+CA,-,4.13,10.00,American Double / Imperial Stout,,Almanac Beer Co.,,Cognac Barrel Noir,37,San Francisco
+CA,-,4.43,10.50,American Wild Ale,,Almanac Beer Co.,,Dogpatch Grand Cru,12,San Francisco
+CA,-,4.16,7.50,American Wild Ale,,Almanac Beer Co.,,Dogpatch Sour,"1,036",San Francisco
+CA,-,4.1,9.00,American Double / Imperial IPA,,Almanac Beer Co.,,Don't Call It Frisco! Double IPA,15,San Francisco
+CA,-,-,6.50,Saison / Farmhouse Ale,,Almanac Beer Co.,,Elephant Heart De Brettaville,0,San Francisco
+CA,-,3.55,6.00,Belgian Pale Ale,,Almanac Beer Co.,,Extra Pale Ale,155,San Francisco
+CA,-,4.08,7.00,American Wild Ale,,Almanac Beer Co.,,Farmer's Reserve Blackberry,498,San Francisco
+CA,-,4.12,7.00,American Wild Ale,,Almanac Beer Co.,,Farmer's Reserve Blueberry,287,San Francisco
+CA,-,4.15,7.00,American Wild Ale,,Almanac Beer Co.,,Farmer's Reserve Citrus,42,San Francisco
+CA,-,4.17,7.00,American Wild Ale,,Almanac Beer Co.,,Farmer's Reserve Pluot,633,San Francisco
+CA,-,4.05,7.00,American Wild Ale,,Almanac Beer Co.,,Farmers Reserve Blackberry,9,San Francisco
+CA,-,4.11,7.00,American Wild Ale,,Almanac Beer Co.,,Farmers Reserve Citrus,578,San Francisco
+CA,-,4.23,10.20,American Wild Ale,,Almanac Beer Co.,,Farmer’s Reserve Grand Cru,12,San Francisco
+CA,-,3.66,7.50,American IPA,,Almanac Beer Co.,,Fresh Hop IPA - Chinook,72,San Francisco
+CA,-,3.66,5.00,Gose,,Almanac Beer Co.,,Ginger Gose,12,San Francisco
+CA,-,3.78,5.00,Gose,,Almanac Beer Co.,,Golden Gate Gose,602,San Francisco
+CA,-,-,11.00,American Double / Imperial Stout,,Almanac Beer Co.,,Grab Some Oak,1,San Francisco
+CA,-,4.19,12.00,American Barleywine,,Almanac Beer Co.,,Heirloom Pumpkin Barleywine,797,San Francisco
+CA,-,3.48,4.80,Saison / Farmhouse Ale,,Almanac Beer Co.,,Honey Saison,170,San Francisco
+CA,-,4.1,7.00,American Wild Ale,,Almanac Beer Co.,,Hoppy Sour: Mandarina,41,San Francisco
+CA,-,-,7.00,American Wild Ale,,Almanac Beer Co.,,Hoppy Sour: Mosaic,0,San Francisco
+CA,-,3.75,6.50,Oatmeal Stout,,Almanac Beer Co.,,Horchata Almond Milk Stout,17,San Francisco
+CA,-,4.18,10.00,American Double / Imperial Stout,,Almanac Beer Co.,,Imperial Chocolate Stout,24,San Francisco
+CA,-,3.79,9.00,American Stout,,Almanac Beer Co.,,Lazy Bear Honeypot Stout,11,San Francisco
+CA,-,3.71,5.00,Gose,,Almanac Beer Co.,,Meyer Lemon Gose,23,San Francisco
+CA,-,3.82,9.50,Quadrupel (Quad),,Almanac Beer Co.,,Paris Of The West,46,San Francisco
+CA,-,4.32,6.50,American Wild Ale,,Almanac Beer Co.,,Peach De Brettaville,41,San Francisco
+CA,-,-,4.30,Saison / Farmhouse Ale,,Almanac Beer Co.,,Petite Citra Saison,2,San Francisco
+CA,-,4.15,8.50,American Wild Ale,,Almanac Beer Co.,,Pumpkin Sour,95,San Francisco
+CA,-,-,7.00,American Wild Ale,,Almanac Beer Co.,,Rum Barrel Peche,0,San Francisco
+CA,-,4.14,7.20,Saison / Farmhouse Ale,,Almanac Beer Co.,,Saison De Brettaville,69,San Francisco
+CA,-,3.81,6.80,Saison / Farmhouse Ale,,Almanac Beer Co.,,Saison Dolores,167,San Francisco
+CA,-,4.32,7.00,American Wild Ale,,Almanac Beer Co.,,Simcoe Sour,88,San Francisco
+CA,-,3.34,6.50,American IPA,,Almanac Beer Co.,,Single Origin IPA,11,San Francisco
+CA,-,3.94,10.00,American Double / Imperial Stout,,Almanac Beer Co.,,Tequila Barrel Noir,142,San Francisco
+CA,-,4.33,9.00,American Wild Ale,,Almanac Beer Co.,,Truthful Statement,21,San Francisco
+CA,-,3.63,8.50,Belgian Strong Pale Ale,,Almanac Beer Co.,,Valencia Gold,70,San Francisco
+CA,-,4.25,7.00,American Wild Ale,,Almanac Beer Co.,,Valley Of The Heart's Delight,680,San Francisco
+CA,-,4.05,7.00,American Wild Ale,,Almanac Beer Co.,,Wakatu Sour,81,San Francisco
+CA,-,-,9.00,American Double / Imperial Stout,,Almanac Beer Co.,,Whiskey Barrel Wild Ale,0,San Francisco
+CA,-,3.94,7.50,American Brown Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Argonaut Collection: Anchor Barrel Ale,27,San Francisco
+CA,-,4.11,8.20,American Double / Imperial IPA,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Argonaut Collection: Double Liberty IPA,15,San Francisco
+CA,-,4.01,7.40,Foreign / Export Stout,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Argonaut Collection: Flying Cloud San Francisco Stout,171,San Francisco
+CA,85,3.63,6.00,American Amber / Red Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor BigLeaf Maple Autumn Red,941,San Francisco
+CA,67,3.73,5.50,Bock,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Bock Beer,986,San Francisco
+CA,-,3.74,6.00,Fruit / Vegetable Beer,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Brewing Zymaster® Series No. 8: Luxardo® Cherry Ale,15,San Francisco
+CA,90,3.74,4.90,American Pale Lager,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor California Lager,"1,009",San Francisco
+CA,-,3.78,8.20,American Double / Imperial IPA,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Double Liberty,93,San Francisco
+CA,-,3.76,5.90,American Pale Ale (APA),(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Humming Ale,659,San Francisco
+CA,-,3.67,6.50,American IPA,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor IPA,"1,059",San Francisco
+CA,89,3.93,5.90,American IPA,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Liberty Ale,"3,291",San Francisco
+CA,-,-,5.10,Märzen / Oktoberfest,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Oktoberfest,1,San Francisco
+CA,84,3.93,10.00,English Barleywine,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Old Foghorn,"1,895",San Francisco
+CA,-,4.15,7.50,American Strong Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Our Barrel Ale,83,San Francisco
+CA,98,4.1,5.60,American Porter,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Porter,"3,518",San Francisco
+CA,-,3.58,7.20,Saison / Farmhouse Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Saison Spring Ale,258,San Francisco
+CA,70,3.12,3.30,English Bitter,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Small Beer,448,San Francisco
+CA,94,3.85,4.90,California Common / Steam Beer,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Steam Beer,"5,613",San Francisco
+CA,83,3.38,4.60,American Pale Wheat Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Summer Beer,"1,291",San Francisco
+CA,-,3.4,4.50,American Pale Wheat Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Summer Wheat,102,San Francisco
+CA,-,3.84,7.00,American Dark Wheat Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Winter Wheat,278,San Francisco
+CA,-,3.51,4.00,English Dark Mild Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor Zymaster Series No.2: Mark's Mild,39,San Francisco
+CA,-,3.63,4.50,American Pale Lager,(415) 863-8350,Anchor Brewing Company,4158638350,Anchor’s Meyer Lemon Lager,14,San Francisco
+CA,-,3.69,6.00,American Brown Ale,(415) 863-8350,Anchor Brewing Company,4158638350,Brekle's Brown,819,San Francisco
+CA,88,3.81,5.60,California Common / Steam Beer,(415) 863-8350,Anchor Brewing Company,4158638350,Brotherhood Steam,177,San Francisco
+CA,-,3.55,5.30,Kölsch,(415) 863-8350,Anchor Brewing Company,4158638350,California Uncommon,3,San Francisco
+CA,-,3.53,4.90,California Common / Steam Beer,(415) 863-8350,Anchor Brewing Company,4158638350,Dry Hopped Steam Beer,4,San Francisco
+CA,-,-,6.70,American IPA,(415) 863-8350,Anchor Brewing Company,4158638350,Go West! IPA,0,San Francisco
+CA,-,-,4.50,Fruit / Vegetable Beer,(415) 863-8350,Anchor Brewing Company,4158638350,Mango Wheat,0,San Francisco
+CA,-,3.8,5.50,Winter Warmer,(415) 863-8350,Anchor Brewing Company,4158638350,Our Special Ale 2015 (Anchor Christmas Ale),296,San Francisco
+CA,-,-,7.80,Belgian Dark Ale,(415) 745-2739,Armstrong Brewing Co.,4157452739,415 FOG,0,South San Francisco
+CA,-,-,7.80,American Stout,(415) 745-2739,Armstrong Brewing Co.,4157452739,B & W Coffee Stout,0,South San Francisco
+CA,-,-,7.10,Dubbel,(415) 745-2739,Armstrong Brewing Co.,4157452739,Belgian Dubbel,0,South San Francisco
+CA,-,-,7.20,Dunkelweizen,(415) 745-2739,Armstrong Brewing Co.,4157452739,Dunkelweizen,0,South San Francisco
+CA,-,-,5.40,Extra Special / Strong Bitter (ESB),(415) 745-2739,Armstrong Brewing Co.,4157452739,ESB,0,South San Francisco
+CA,-,-,4.80,Gose,(415) 745-2739,Armstrong Brewing Co.,4157452739,Moe's Gose,0,South San Francisco
+CA,-,-,6.50,American Porter,(415) 745-2739,Armstrong Brewing Co.,4157452739,Porter,0,South San Francisco
+CA,-,-,6.30,Pumpkin Ale,(415) 745-2739,Armstrong Brewing Co.,4157452739,Pumpkin Ale,0,South San Francisco
+CA,-,-,5.40,English Brown Ale,(415) 745-2739,Armstrong Brewing Co.,4157452739,So. City Brown,0,South San Francisco
+CA,-,-,6.20,American IPA,(415) 416-6989,Barrel Head Brewhouse,4154166989,America's Next Hop Model Wet IPA,0,San Francisco
+CA,-,3.38,6.30,Schwarzbier,(415) 416-6989,Barrel Head Brewhouse,4154166989,Black Kolsch,2,San Francisco
+CA,-,-,5.20,American Brown Ale,(415) 416-6989,Barrel Head Brewhouse,4154166989,Doc Brown,0,San Francisco
+CA,-,3.63,6.30,American Wild Ale,(415) 416-6989,Barrel Head Brewhouse,4154166989,Fruit Fly,2,San Francisco
+CA,-,4.18,8.40,American Double / Imperial IPA,(415) 416-6989,Barrel Head Brewhouse,4154166989,Golden Noodle IPA,1,San Francisco
+CA,-,3.12,?,American Porter,(415) 416-6989,Barrel Head Brewhouse,4154166989,Icarus' Porter,1,San Francisco
+CA,-,-,7.40,Flanders Oud Bruin,(415) 416-6989,Barrel Head Brewhouse,4154166989,ODB (Oud Dirty Bruin) Sour,0,San Francisco
+CA,-,-,6.50,American Pale Ale (APA),(415) 416-6989,Barrel Head Brewhouse,4154166989,Pine Meat Fresh Hop Ale,0,San Francisco
+CA,-,3.25,?,Saison / Farmhouse Ale,(415) 416-6989,Barrel Head Brewhouse,4154166989,Simon Says Persimmon Saison,1,San Francisco
+CA,-,3.97,6.80,Winter Warmer,(415) 416-6989,Barrel Head Brewhouse,4154166989,Spruce Moose Winter Ale,1,San Francisco
+CA,-,3.38,?,Czech Pilsener,(415) 416-6989,Barrel Head Brewhouse,4154166989,UltraMagnetic MCPs (Mic-Czechin Pils),2,San Francisco
+CA,-,-,5.00,Czech Pilsener,(415) 433-4332,Bartlett Hall,4154334332,5 Ton Hook West Coast Pils,0,San Francisco
+CA,-,4.32,6.60,American IPA,(415) 433-4332,Bartlett Hall,4154334332,Angel Island IPA,3,San Francisco
+CA,-,4.05,6.10,English Pale Ale,(415) 433-4332,Bartlett Hall,4154334332,Balcutha,1,San Francisco
+CA,-,-,4.80,American Blonde Ale,(415) 433-4332,Bartlett Hall,4154334332,Bartlett Blonde,2,San Francisco
+CA,-,-,?,American IPA,(415) 433-4332,Bartlett Hall,4154334332,Flower Shop IPA,0,San Francisco
+CA,-,-,6.00,Belgian IPA,(415) 433-4332,Bartlett Hall,4154334332,From A To Z Belgian IPA,0,San Francisco
+CA,-,3.68,4.70,Kellerbier / Zwickelbier,(415) 433-4332,Bartlett Hall,4154334332,Galaxy 415,1,San Francisco
+CA,-,4.06,4.20,American Pale Wheat Ale,(415) 433-4332,Bartlett Hall,4154334332,Hoppy Hills,1,San Francisco
+CA,-,4.03,5.60,American Pale Ale (APA),(415) 433-4332,Bartlett Hall,4154334332,Potrero Point Pale Ale,2,San Francisco
+CA,-,-,5.50,American Pale Wheat Ale,(415) 433-4332,Bartlett Hall,4154334332,Stone Head Wheat,0,San Francisco
+CA,-,-,?,American Brown Ale,(415) 433-4332,Bartlett Hall,4154334332,Treasure Island Brown Ale,0,San Francisco
+CA,-,-,5.10,English Bitter,(415) 433-4332,Bartlett Hall,4154334332,Turbulent ESB,0,San Francisco
+CA,-,4.36,?,Dubbel,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Backwater Belgian Dubbel,1,San Francisco
+CA,-,3.1,4.90,Hefeweizen,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Bavarian Hefeweizen,6,San Francisco
+CA,-,3.3,5.30,American Pale Ale (APA),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,California Kind Pale Ale,13,San Francisco
+CA,-,-,5.60,Roggenbier,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Catcher In The Roggenbier,0,San Francisco
+CA,-,4.06,?,American Porter,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Chocolate Porter,1,San Francisco
+CA,-,3.67,5.00,Extra Special / Strong Bitter (ESB),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Elevation ESB,2,San Francisco
+CA,-,3.62,5.60,American Stout,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Fleishhacker Stout,9,San Francisco
+CA,-,2.14,5.00,English Brown Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Fogtown Brown,2,San Francisco
+CA,-,3.38,4.80,Fruit / Vegetable Beer,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Golden Apricot Ale,1,San Francisco
+CA,-,3.41,5.60,American Porter,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Golden Gate Park Porter,5,San Francisco
+CA,-,-,5.20,American Pale Ale (APA),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Harvest Pale Ale,0,San Francisco
+CA,-,-,4.10,Hefeweizen,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,High Tide Hefeweizen,0,San Francisco
+CA,-,3,?,American Pale Wheat Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Honey Wheat,1,San Francisco
+CA,-,3,5.70,American Pale Ale (APA),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Magnum Pale Ale,1,San Francisco
+CA,-,3.5,5.40,American Pale Ale (APA),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Mt Hood Pale Ale,1,San Francisco
+CA,-,3.28,5.80,Märzen / Oktoberfest,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Ocean Beach Oktoberfest,4,San Francisco
+CA,-,3.75,5.60,American Stout,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Oyster Stout,1,San Francisco
+CA,-,3.54,6.80,American IPA,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Presidio India Pale Ale,22,San Francisco
+CA,-,-,?,Pumpkin Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Pumpkin Spice Ale,0,San Francisco
+CA,-,3.52,5.60,American Amber / Red Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Riptide Red Ale,19,San Francisco
+CA,-,2,5.80,American Porter,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Robust Porter,1,San Francisco
+CA,-,4.09,?,Saison / Farmhouse Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Saison Du Chalet De Plage,4,San Francisco
+CA,-,3.71,5.30,Scottish Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Smokey The Beer,3,San Francisco
+CA,-,2.99,4.80,American Pale Wheat Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,Spiced Wheat Ale,1,San Francisco
+CA,-,2.72,4.80,American Pale Ale (APA),(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,V.F.W. Light,11,San Francisco
+CA,-,3.4,4.90,American Pale Wheat Ale,(415) 386-8439,Beach Chalet Brewery and Restaurant,4153868439,West End Wheat,3,San Francisco
+CA,-,3.66,3.20,Berliner Weissbier,(415) 758-2223,Black Hammer Brewing,4157582223,Sunrise Set,2,San Francisco
+CA,-,-,5.00,American Brown Ale,(415) 534-5194,Black Sands,4155345194,Altered Earth,0,San Francisco
+CA,-,4.76,8.00,American Double / Imperial IPA,(415) 534-5194,Black Sands,4155345194,Brutalist Monolith,1,San Francisco
+CA,-,-,6.50,Saison / Farmhouse Ale,(415) 534-5194,Black Sands,4155345194,Crushing Tide,0,San Francisco
+CA,-,-,3.50,Saison / Farmhouse Ale,(415) 534-5194,Black Sands,4155345194,Empire,0,San Francisco
+CA,-,-,8.50,Milk / Sweet Stout,(415) 534-5194,Black Sands,4155345194,Imperial Coconut Cream Stout,0,San Francisco
+CA,-,3.67,4.80,Saison / Farmhouse Ale,(415) 534-5194,Black Sands,4155345194,Lady Adelaide,1,San Francisco
+CA,-,-,5.50,Milk / Sweet Stout,(415) 534-5194,Black Sands,4155345194,Oil As Embers,0,San Francisco
+CA,-,3.68,5.00,American Pale Wheat Ale,(415) 534-5194,Black Sands,4155345194,Polar Vortex,3,San Francisco
+CA,-,3.71,6.00,Schwarzbier,(415) 534-5194,Black Sands,4155345194,Schwazbier,1,San Francisco
+CA,-,-,6.00,American Black Ale,(415) 534-5194,Black Sands,4155345194,Son Of Man,0,San Francisco
+CA,-,-,5.80,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,7 Wonders,7,San Francisco
+CA,-,4.25,5.80,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Afternoon Delight,9,San Francisco
+CA,-,4.41,8.50,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Are You Afraid Of The Dank?,77,San Francisco
+CA,-,4.38,7.70,American Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Baby Blammo!,15,San Francisco
+CA,-,4.03,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bad Hand IPA,11,San Francisco
+CA,-,3.83,3.90,English Bitter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bad Teeth,9,San Francisco
+CA,-,4.17,6.90,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bangerang,53,San Francisco
+CA,-,4.04,4.00,English Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Batch #1 Porter,49,San Francisco
+CA,-,4.06,7.50,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bill Beeelichick,10,San Francisco
+CA,-,4.2,6.60,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bless The Rains,5,San Francisco
+CA,-,2.92,4.30,Fruit / Vegetable Beer,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Blonde Moms,9,San Francisco
+CA,-,-,?,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Blonde Sabbath,4,San Francisco
+CA,-,-,5.00,German Pilsener,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Blue Velvet,0,San Francisco
+CA,-,-,?,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Bourbon Barrel Imperial Coffee And Cigarettes,0,San Francisco
+CA,-,-,5.90,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Breakheart,1,San Francisco
+CA,-,4.23,7.00,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Brett Easton ALS,12,San Francisco
+CA,-,3.88,6.60,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Catch A Fire,19,San Francisco
+CA,-,-,8.10,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Chardonnay Wisdom,1,San Francisco
+CA,-,4.23,6.50,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Cloud 9,7,San Francisco
+CA,-,4.37,7.60,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coffee And Cigarettes,149,San Francisco
+CA,-,4.38,7.60,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coffee And Cigarettes With Chicory & Cocoa Nibs & Beigents,2,San Francisco
+CA,-,4.46,6.00,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coffee Sessions: Four Barrel,12,San Francisco
+CA,-,4.32,6.20,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coffee Sessions: Front,6,San Francisco
+CA,-,4.43,5.70,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coffee Sessions: Ritual,9,San Francisco
+CA,-,3.96,6.90,American Strong Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Contains Nuts #1 (Pecans),14,San Francisco
+CA,-,4.24,6.60,American Amber / Red Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Contains Nuts #2 (hazelnuts),9,San Francisco
+CA,-,3.89,5.80,American Pale Wheat Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Cool Wheat,23,San Francisco
+CA,-,3.89,4.30,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Coquette,32,San Francisco
+CA,-,4.33,8.10,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Dank Side Of The Moon,18,San Francisco
+CA,-,4.46,10.80,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Dank Statement,60,San Francisco
+CA,-,4.34,7.80,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Dank Williams,54,San Francisco
+CA,-,4.23,4.80,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Daphne,56,San Francisco
+CA,-,4.39,5.10,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Dobis Pale Ale,62,San Francisco
+CA,-,4.38,8.50,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Double Dobis,76,San Francisco
+CA,-,4.63,5.10,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Double Dry Hopped Dobis,9,San Francisco
+CA,-,4.25,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Equinox Pale Ale,29,San Francisco
+CA,-,3.69,5.10,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Fake Gold,8,San Francisco
+CA,-,-,6.30,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Flesh Tones #1,1,San Francisco
+CA,-,3.92,4.90,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Gold Dust,5,San Francisco
+CA,-,-,6.60,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Gracious Days,1,San Francisco
+CA,-,-,5.30,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Great Scott,0,San Francisco
+CA,-,4.5,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Green Knuckle,8,San Francisco
+CA,-,4.31,8.00,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Highway To The Danker Zone,72,San Francisco
+CA,-,3.86,6.60,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Holy Rakau,11,San Francisco
+CA,-,4.27,7.20,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hop Killah,56,San Francisco
+CA,-,4.11,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hop Making Sense,26,San Francisco
+CA,-,4.18,6.80,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hop Out Of Mind,6,San Francisco
+CA,-,4.39,6.50,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hop Slangin' IPA,52,San Francisco
+CA,-,4.04,6.60,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hops Don't Lie,7,San Francisco
+CA,-,4.18,6.10,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Hottt Switch,7,San Francisco
+CA,-,4.52,8.30,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,I See A Dankness,39,San Francisco
+CA,-,3.95,5.90,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,I See A Danquito,10,San Francisco
+CA,-,4.56,10.40,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Imperial Coffee And Cigarettes,70,San Francisco
+CA,-,4.5,10.40,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Inperial Coffee And Cigarettes With Vanilla Bean,4,San Francisco
+CA,-,4.34,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,IPA D'Donk,15,San Francisco
+CA,-,-,5.80,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Island Culture,6,San Francisco
+CA,-,4.44,6.10,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Killed By Death,8,San Francisco
+CA,-,3.54,4.70,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Leggie Blonde,5,San Francisco
+CA,-,4.4,4.90,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Lite Jade,8,San Francisco
+CA,-,3.93,6.10,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Lost Wisdom (Chardonnay Barrel-Aged),11,San Francisco
+CA,-,4.03,8.10,Milk / Sweet Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mad Nibs,50,San Francisco
+CA,-,-,7.00,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Maximum Joy,10,San Francisco
+CA,-,4.09,5.50,American Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Midnight Society,14,San Francisco
+CA,-,-,6.90,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo'  Equinox,9,San Francisco
+CA,-,-,?,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo' Citra IPA,5,San Francisco
+CA,-,4.31,7.20,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo' Motueka,27,San Francisco
+CA,-,4.3,7.10,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo' Nelson,64,San Francisco
+CA,-,4.18,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo' Passion,25,San Francisco
+CA,-,4.35,6.50,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mo' Simcoe,13,San Francisco
+CA,-,4.33,8.90,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mocha And Cigarettes,25,San Francisco
+CA,-,4.52,5.10,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Moonage Daydream,48,San Francisco
+CA,-,4.21,5.40,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Mt. Nelson,24,San Francisco
+CA,-,4.13,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Nelquinox,12,San Francisco
+CA,-,3.99,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,New Beer Smell,13,San Francisco
+CA,-,3.71,5.40,American Black Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Nightman,10,San Francisco
+CA,-,4.2,5.60,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,No Agreement,16,San Francisco
+CA,-,4.07,5.80,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,No Control,13,San Francisco
+CA,-,4.47,8.20,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Original Dankster,67,San Francisco
+CA,-,3.99,?,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Otto's Backpack,25,San Francisco
+CA,-,4.34,6.80,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Otto's Jacket,38,San Francisco
+CA,-,4.44,6.40,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Permanent Daylight,62,San Francisco
+CA,-,4.16,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,PhởMoMoCoe,5,San Francisco
+CA,-,3.76,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Pretty Pretty Pale Ale,16,San Francisco
+CA,-,2.95,7.30,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Purity Supreme,8,San Francisco
+CA,-,4.54,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Questionable Origins #3,66,San Francisco
+CA,-,3.91,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Questionable Origins #5,11,San Francisco
+CA,-,4.03,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Questionable Origins #6,9,San Francisco
+CA,-,-,6.00,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Questionable Origins #7,6,San Francisco
+CA,-,-,5.40,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Resplendent,3,San Francisco
+CA,-,4.24,8.70,American Double / Imperial IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Rodney Dankerfield,28,San Francisco
+CA,-,4.02,5.60,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Rude Boy,7,San Francisco
+CA,-,3.69,3.80,Extra Special / Strong Bitter (ESB),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Rye Be Bitter,26,San Francisco
+CA,-,-,6.00,Saison / Farmhouse Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Saison Francisco,38,San Francisco
+CA,-,4.08,?,American Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Salted Caramel Chocolate Stout (Cask),1,San Francisco
+CA,-,3.54,?,American Brown Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Schwag,10,San Francisco
+CA,-,-,6.50,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Sending You Pure Vibes Y'all!,2,San Francisco
+CA,-,4.39,5.80,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Seven Wonders,9,San Francisco
+CA,-,4.18,6.40,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,SFC IPA,15,San Francisco
+CA,-,4.36,6.10,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Sharing Sandwiches,18,San Francisco
+CA,-,3.63,?,Foreign / Export Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Shoutout Stout,13,San Francisco
+CA,-,4.24,7.20,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Simcoe Galaxy IPA,18,San Francisco
+CA,-,4.03,5.50,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Simcoe Sessions,16,San Francisco
+CA,-,3.47,?,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Smell The Colors,25,San Francisco
+CA,-,-,4.00,Berliner Weissbier,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,SoMa Vice,0,San Francisco
+CA,-,3.98,4.70,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Something Light,7,San Francisco
+CA,-,-,?,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Southern Dobis Pale Ale,5,San Francisco
+CA,-,-,4.80,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Stay At Home Dad,4,San Francisco
+CA,-,3.92,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Steve Surprise,14,San Francisco
+CA,-,3.96,7.20,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Taco Hands,37,San Francisco
+CA,-,3.94,5.60,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,The Gorch,10,San Francisco
+CA,-,4.2,10.00,American Double / Imperial Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,The Vastness Of Space,37,San Francisco
+CA,-,-,?,American Blonde Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Third Eye,6,San Francisco
+CA,-,4.01,6.50,American Brown Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Tim's Brown,51,San Francisco
+CA,-,4.17,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Tiny Dankster,67,San Francisco
+CA,-,3.86,5.60,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Tremont,3,San Francisco
+CA,-,4.13,5.50,Czech Pilsener,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Typo Pills,21,San Francisco
+CA,-,4.27,7.00,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Under Arbor,4,San Francisco
+CA,-,3.68,10.40,American Porter,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Underberg And Cigarettes (Collaboration With Good Karma),3,San Francisco
+CA,-,3.69,5.70,American Pale Ale (APA),(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Underneath The Pine,17,San Francisco
+CA,-,-,5.00,Belgian Pale Ale,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Vaarwel,0,San Francisco
+CA,-,-,9.80,American Double / Imperial Stout,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Vastness Of Space,1,San Francisco
+CA,-,4.24,7.00,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Wicked Juicy,7,San Francisco
+CA,-,4.17,6.70,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,Yolo Once,15,San Francisco
+CA,-,3.93,6.40,American IPA,(415) 863-3940,Cellarmaker Brewing Co.,4158633940,You Are What You Is,12,San Francisco
+CA,-,4.13,7.00,Tripel,(415) 273-9295,Cervecería de MateVeza,4152739295,Anniversary Tripel,1,San Francisco
+CA,-,3.34,5.25,Saison / Farmhouse Ale,(415) 273-9295,Cervecería de MateVeza,4152739295,Beach Comber,1,San Francisco
+CA,-,3.25,5.00,Hefeweizen,(415) 273-9295,Cervecería de MateVeza,4152739295,Gaucho Wheat,1,San Francisco
+CA,-,-,9.10,Belgian Strong Pale Ale,(415) 273-9295,Cervecería de MateVeza,4152739295,Greyhound,1,San Francisco
+CA,-,4.29,?,American Double / Imperial IPA,(415) 273-9295,Cervecería de MateVeza,4152739295,Jump The Scotch,1,San Francisco
+CA,-,3.18,4.00,English Brown Ale,(415) 273-9295,Cervecería de MateVeza,4152739295,La Morena,1,San Francisco
+CA,-,4.04,7.00,American Blonde Ale,(415) 273-9295,Cervecería de MateVeza,4152739295,Local Honey,1,San Francisco
+CA,-,3.43,5.20,Schwarzbier,(415) 273-9295,Cervecería de MateVeza,4152739295,MateVeza Organic Black Lager,20,San Francisco
+CA,90,3.34,5.00,American Pale Ale (APA),(415) 273-9295,Cervecería de MateVeza,4152739295,MateVeza Organic Golden Ale,51,San Francisco
+CA,-,3.32,7.00,American IPA,(415) 273-9295,Cervecería de MateVeza,4152739295,Mateveza Yerba Mate IPA,73,San Francisco
+CA,-,3.94,6.00,American Blonde Ale,(415) 273-9295,Cervecería de MateVeza,4152739295,Vintage Morpho,1,San Francisco
+CA,-,4.1,?,Kvass,(415) 751-9690,Cinderella Russian Bakery & Cafe,4157519690,Kvas,2,San Francisco
+CA,-,-,4.50,Irish Red Ale,(415) 244-5496,Elizabeth Street Brewery,4152445496,Addison's Firecracker Red,0,San Francisco
+CA,-,-,6.00,American IPA,(415) 244-5496,Elizabeth Street Brewery,4152445496,Auntie Ben's IPA,0,San Francisco
+CA,-,-,5.00,Milk / Sweet Stout,(415) 244-5496,Elizabeth Street Brewery,4152445496,Daddy's Chocolate Milk,0,San Francisco
+CA,-,-,6.00,American Blonde Ale,(415) 244-5496,Elizabeth Street Brewery,4152445496,Mummy's Double Honey,0,San Francisco
+CA,-,-,6.50,English Porter,(415) 244-5496,Elizabeth Street Brewery,4152445496,Quincy's Winter Warmer,0,San Francisco
+CA,-,3.83,7.00,American IPA,(415) 906-4021,Fort Point Beer Company,4159064021,Animal,3,San Francisco
+CA,-,3.8,4.60,Kölsch,(415) 906-4021,Fort Point Beer Company,4159064021,KSA,22,San Francisco
+CA,-,4.09,4.70,American Pale Wheat Ale,(415) 906-4021,Fort Point Beer Company,4159064021,Park,26,San Francisco
+CA,-,-,4.70,American Pale Wheat Ale,(415) 906-4021,Fort Point Beer Company,4159064021,Park Hoppy,1,San Francisco
+CA,-,4.03,6.00,American IPA,(415) 906-4021,Fort Point Beer Company,4159064021,Professor IPA,1,San Francisco
+CA,-,-,10.30,Quadrupel (Quad),(415) 906-4021,Fort Point Beer Company,4159064021,Saint Francis 12,3,San Francisco
+CA,-,-,4.00,American Porter,(415) 906-4021,Fort Point Beer Company,4159064021,Summer Porter,0,San Francisco
+CA,-,4.31,6.20,American Pale Ale (APA),(415) 906-4021,Fort Point Beer Company,4159064021,Swept By Fire,5,San Francisco
+CA,-,4.08,4.90,Kölsch,(415) 906-4021,Fort Point Beer Company,4159064021,Tosca,2,San Francisco
+CA,-,-,6.20,Rye Beer,(415) 906-4021,Fort Point Beer Company,4159064021,Treble Hook,0,San Francisco
+CA,-,3.88,6.50,American IPA,(415) 906-4021,Fort Point Beer Company,4159064021,Villager IPA,24,San Francisco
+CA,-,4.17,5.60,Vienna Lager,(415) 906-4021,Fort Point Beer Company,4159064021,Westfalia,17,San Francisco
+CA,-,3.48,7.20,American IPA,(408) 504-0275,Golden State Brewery,4085040275,Eureka! IPA,2,San Francisco
+CA,-,3.74,5.70,American Blonde Ale,(408) 504-0275,Golden State Brewery,4085040275,Honey Ale,3,San Francisco
+CA,-,-,6.00,American Pale Ale (APA),(408) 504-0275,Golden State Brewery,4085040275,Poppy Pale Ale,2,San Francisco
+CA,-,3.69,7.60,Belgian Pale Ale,(415) 867-8109,Holy Craft Brewing Company,4158678109,Magnum Opus,1,San Francisco
+CA,-,-,7.60,American IPA,(415) 867-8109,Holy Craft Brewing Company,4158678109,Singularis,0,San Francisco
+CA,-,3.94,5.20,American Black Ale,(415) 932-6702,Local Brewing Co.,4159326702,1776 Black Ale,2,San Francisco
+CA,-,3.6,5.00,California Common / Steam Beer,(415) 932-6702,Local Brewing Co.,4159326702,Bluxome Black Lager,2,San Francisco
+CA,-,-,4.10,English Brown Ale,(415) 932-6702,Local Brewing Co.,4159326702,Boomtown Brown,1,San Francisco
+CA,-,-,5.80,American Pale Ale (APA),(415) 932-6702,Local Brewing Co.,4159326702,Bridge,2,San Francisco
+CA,-,-,5.50,American Amber / Red Ale,(415) 932-6702,Local Brewing Co.,4159326702,Crocker,0,San Francisco
+CA,-,-,7.50,American IPA,(415) 932-6702,Local Brewing Co.,4159326702,Duboce Park,1,San Francisco
+CA,-,-,6.20,American Pale Ale (APA),(415) 932-6702,Local Brewing Co.,4159326702,Farallon,1,San Francisco
+CA,-,-,6.80,American IPA,(415) 932-6702,Local Brewing Co.,4159326702,Faux-Boce,3,San Francisco
+CA,-,-,6.30,Märzen / Oktoberfest,(415) 932-6702,Local Brewing Co.,4159326702,Indian Summer Oktoberfest,2,San Francisco
+CA,-,-,5.40,Cream Ale,(415) 932-6702,Local Brewing Co.,4159326702,Macaroon,3,San Francisco
+CA,-,-,4.70,American Pale Ale (APA),(415) 932-6702,Local Brewing Co.,4159326702,Marina XPA,1,San Francisco
+CA,-,3.88,4.70,American IPA,(415) 932-6702,Local Brewing Co.,4159326702,Parklet ISA,4,San Francisco
+CA,-,-,5.50,California Common / Steam Beer,(415) 932-6702,Local Brewing Co.,4159326702,SF Lager,0,San Francisco
+CA,-,3.48,7.40,Dubbel,(415) 932-6702,Local Brewing Co.,4159326702,Shanghai'd,2,San Francisco
+CA,-,-,5.90,American Stout,(415) 932-6702,Local Brewing Co.,4159326702,Sutro Tower,4,San Francisco
+CA,-,-,7.40,Old Ale,(415) 932-6702,Local Brewing Co.,4159326702,T.I. Special,0,San Francisco
+CA,-,3.85,5.80,American IPA,(415) 932-6702,Local Brewing Co.,4159326702,Wet Hop Pale,1,San Francisco
+CA,-,-,9.00,Baltic Porter,(415) 932-6702,Local Brewing Co.,4159326702,Winter Sweater,1,San Francisco
+CA,-,-,6.70,American IPA,,Magnolia Pub & Brewery,,1919 IPA,0,San Francisco
+CA,-,4.12,9.10,Quadrupel (Quad),,Magnolia Pub & Brewery,,4 Winds Quadrupel,2,San Francisco
+CA,-,3.18,?,Herbed / Spiced Beer,,Magnolia Pub & Brewery,,Aliciella Bitter,4,San Francisco
+CA,-,3.68,3.90,English Dark Mild Ale,,Magnolia Pub & Brewery,,American Reality,1,San Francisco
+CA,-,4.1,9.60,American Double / Imperial IPA,,Magnolia Pub & Brewery,,Atlas,1,San Francisco
+CA,-,2.9,6.10,Pumpkin Ale,,Magnolia Pub & Brewery,,Barking Pumpkin,3,San Francisco
+CA,-,3.69,4.00,English Brown Ale,,Magnolia Pub & Brewery,,Big Cypress Brown,20,San Francisco
+CA,-,4.1,4.90,English Bitter,,Magnolia Pub & Brewery,,Billy's Sunday Best Bitter,18,San Francisco
+CA,-,3.63,5.40,Extra Special / Strong Bitter (ESB),,Magnolia Pub & Brewery,,Blue Bell Bitter,51,San Francisco
+CA,-,3.25,4.30,English Bitter,,Magnolia Pub & Brewery,,Bonnie Lee's Best Bitter,12,San Francisco
+CA,-,3.79,4.30,Extra Special / Strong Bitter (ESB),,Magnolia Pub & Brewery,,Branthill ESB,7,San Francisco
+CA,-,3.51,5.30,Belgian Dark Ale,,Magnolia Pub & Brewery,,Chocolate George Stout,4,San Francisco
+CA,-,3.87,4.80,American Porter,,Magnolia Pub & Brewery,,Cole Porter,33,San Francisco
+CA,-,3.73,3.60,English Dark Mild Ale,,Magnolia Pub & Brewery,,Dark Star Mild,20,San Francisco
+CA,-,3.15,7.20,Dubbel,,Magnolia Pub & Brewery,,Deep Elem Dubbel,8,San Francisco
+CA,-,3.65,4.30,Belgian Pale Ale,,Magnolia Pub & Brewery,,Destiny Unblonde,3,San Francisco
+CA,-,3.17,?,Dunkelweizen,,Magnolia Pub & Brewery,,Dunkelweizen,2,San Francisco
+CA,-,4.04,?,American Porter,,Magnolia Pub & Brewery,,Gallows Hill Porter,2,San Francisco
+CA,-,-,4.90,American Blonde Ale,,Magnolia Pub & Brewery,,Golden Rabbit Ale,0,San Francisco
+CA,-,3.67,4.90,Witbier,,Magnolia Pub & Brewery,,Gordo,3,San Francisco
+CA,-,-,3.20,Saison / Farmhouse Ale,,Magnolia Pub & Brewery,,Gris-Gris,0,San Francisco
+CA,-,3.98,5.00,English Bitter,,Magnolia Pub & Brewery,,Griz's Lawnmower Ale,3,San Francisco
+CA,-,3.94,7.40,American IPA,,Magnolia Pub & Brewery,,High Time Harvest Ale,5,San Francisco
+CA,-,3.31,6.10,American IPA,,Magnolia Pub & Brewery,,In With The New IPA,4,San Francisco
+CA,-,3.67,4.80,Kölsch,,Magnolia Pub & Brewery,,Kalifornia Kolsch,64,San Francisco
+CA,-,4,4.40,English Bitter,,Magnolia Pub & Brewery,,Landlady,1,San Francisco
+CA,-,3.75,8.10,Smoked Beer,,Magnolia Pub & Brewery,,Let It Rauch,1,San Francisco
+CA,-,3.57,3.90,English Bitter,,Magnolia Pub & Brewery,,Long Break Bitter,8,San Francisco
+CA,-,3.8,10.20,English Barleywine,,Magnolia Pub & Brewery,,Magnolia Old Thunderpussy Barleywine,23,San Francisco
+CA,-,4,4.50,English Bitter,,Magnolia Pub & Brewery,,Maiden Voyage,1,San Francisco
+CA,-,3.75,4.50,English Pale Mild Ale,,Magnolia Pub & Brewery,,Morning Dew,1,San Francisco
+CA,-,3.69,4.00,English Bitter,,Magnolia Pub & Brewery,,New Speedway Bitter,15,San Francisco
+CA,-,-,11.80,American Barleywine,,Magnolia Pub & Brewery,,Old Thunderpussy,0,San Francisco
+CA,-,4.32,8.50,Old Ale,,Magnolia Pub & Brewery,,Out With The Old Ale,2,San Francisco
+CA,-,3.81,5.20,American Stout,,Magnolia Pub & Brewery,,Oysterhead Stout,22,San Francisco
+CA,-,3,6.10,American Pale Ale (APA),,Magnolia Pub & Brewery,,Pigtail Pale,1,San Francisco
+CA,-,2.5,?,American IPA,,Magnolia Pub & Brewery,,Piper Pale,1,San Francisco
+CA,-,3.74,5.10,American Pale Ale (APA),,Magnolia Pub & Brewery,,Prescription Pale,34,San Francisco
+CA,-,4.15,9.70,English Strong Ale,,Magnolia Pub & Brewery,,Pride Of Branthill,6,San Francisco
+CA,-,3.3,11.20,American Double / Imperial IPA,,Magnolia Pub & Brewery,,Promised Land Imperial IPA,20,San Francisco
+CA,-,3.92,7.20,American IPA,,Magnolia Pub & Brewery,,Proving Ground IPA,133,San Francisco
+CA,-,3.75,8.00,Quadrupel (Quad),,Magnolia Pub & Brewery,,Quadlibet For Tenderfeet,1,San Francisco
+CA,-,3.63,?,American Amber / Red Ale,,Magnolia Pub & Brewery,,Rosebud,3,San Francisco
+CA,-,4.13,10.20,Rye Beer,,Magnolia Pub & Brewery,,Rye Rye Rocco,2,San Francisco
+CA,-,3.78,7.70,Saison / Farmhouse Ale,,Magnolia Pub & Brewery,,Saison De Lily,15,San Francisco
+CA,-,3.69,3.80,English Dark Mild Ale,,Magnolia Pub & Brewery,,Sara's Ruby Mild,18,San Francisco
+CA,-,3.63,7.80,Russian Imperial Stout,,Magnolia Pub & Brewery,,Smokestack Lightning Imperial Stout,20,San Francisco
+CA,-,3.91,3.75,Irish Dry Stout,,Magnolia Pub & Brewery,,Spooky Tooth Stout,5,San Francisco
+CA,-,3.63,5.80,English India Pale Ale (IPA),,Magnolia Pub & Brewery,,Spud Boy IPA,28,San Francisco
+CA,-,3.57,6.20,Oatmeal Stout,,Magnolia Pub & Brewery,,Stout Of Circumstance,23,San Francisco
+CA,-,3.88,4.70,English Pale Ale,,Magnolia Pub & Brewery,,Tillie's Union Ale,3,San Francisco
+CA,-,3.7,8.70,Tripel,,Magnolia Pub & Brewery,,Tweezer Trippel,14,San Francisco
+CA,-,2.9,4.50,American Pale Wheat Ale,,Magnolia Pub & Brewery,,Weather Report Wheat,17,San Francisco
+CA,-,4.12,5.80,Scottish Gruit / Ancient Herbed Ale,,Magnolia Pub & Brewery,,Weekapaug Gruit,26,San Francisco
+CA,-,4.24,6.00,Scottish Gruit / Ancient Herbed Ale,,Magnolia Pub & Brewery,,Weekapaug Gruit (Aged In Bourbon Barrels),2,San Francisco
+CA,-,3.67,8.00,Winter Warmer,,Magnolia Pub & Brewery,,Winter Warmer,6,San Francisco
+CA,-,-,?,American Black Ale,(415) 843-1938,Old Bus Tavern,4158431938,Hand Of Doom,0,San Francisco
+CA,-,-,6.00,American IPA,(415) 843-1938,Old Bus Tavern,4158431938,Lemon Drop Session IPA,0,San Francisco
+CA,-,-,?,American IPA,(415) 843-1938,Old Bus Tavern,4158431938,Rye-noplasty IPA,0,San Francisco
+CA,-,-,9.80,American Double / Imperial IPA,(415) 265-7492,Pacific Brewing Laboratories,4152657492,Imperial IPA,5,San Francisco
+CA,-,3.63,5.10,Saison / Farmhouse Ale,(415) 265-7492,Pacific Brewing Laboratories,4152657492,Nautilus,4,San Francisco
+CA,-,3.91,7.00,American Black Ale,(415) 265-7492,Pacific Brewing Laboratories,4152657492,Squid Ink,33,San Francisco
+CA,-,-,7.00,Pumpkin Ale,(415) 744-4062,Pine Street Brewery,4157444062,All Hallows Eve,0,San Francisco
+CA,-,3.8,6.00,American IPA,(415) 744-4062,Pine Street Brewery,4157444062,Braindrops India Pale Kölsch,3,San Francisco
+CA,-,-,4.80,American Brown Ale,(415) 744-4062,Pine Street Brewery,4157444062,Brown Bag,0,San Francisco
+CA,-,-,8.50,Scotch Ale / Wee Heavy,(415) 744-4062,Pine Street Brewery,4157444062,Glory,0,San Francisco
+CA,-,-,7.50,Dubbel,(415) 744-4062,Pine Street Brewery,4157444062,Guardian,0,San Francisco
+CA,-,-,5.20,Witbier,(415) 744-4062,Pine Street Brewery,4157444062,La Flama Blanca,0,San Francisco
+CA,-,4.11,5.00,Saison / Farmhouse Ale,(415) 744-4062,Pine Street Brewery,4157444062,Menagerie Saison,5,San Francisco
+CA,-,3.52,5.00,American Pale Ale (APA),(415) 744-4062,Pine Street Brewery,4157444062,Pine Street Atom Splitter,22,San Francisco
+CA,-,-,5.50,Fruit / Vegetable Beer,(415) 744-4062,Pine Street Brewery,4157444062,Red Head,0,San Francisco
+CA,-,-,5.50,Rauchbier,(415) 744-4062,Pine Street Brewery,4157444062,Smoked On The Water,0,San Francisco
+CA,-,-,9.00,American Double / Imperial IPA,(415) 744-4062,Pine Street Brewery,4157444062,Walter,0,San Francisco
+CA,-,-,5.90,American Amber / Red Ale,(415) 278-2206,San Francisco Brewing Company,4152782206,Alcatraz Amber,1,San Francisco
+CA,-,-,5.50,American Brown Ale,(415) 278-2206,San Francisco Brewing Company,4152782206,Bay Bridge Brown,0,San Francisco
+CA,-,-,?,American IPA,(415) 278-2206,San Francisco Brewing Company,4152782206,Broadway IPA,4,San Francisco
+CA,-,-,4.60,California Common / Steam Beer,(415) 278-2206,San Francisco Brewing Company,4152782206,California Common,0,San Francisco
+CA,-,-,5.90,American Stout,(415) 278-2206,San Francisco Brewing Company,4152782206,Dynasty Stout,0,San Francisco
+CA,-,-,5.00,American Blonde Ale,(415) 278-2206,San Francisco Brewing Company,4152782206,Golden Gate Ale,0,San Francisco
+CA,-,-,5.30,Hefeweizen,(415) 278-2206,San Francisco Brewing Company,4152782206,Haight St. Hef,0,San Francisco
+CA,-,-,5.80,American Pale Lager,(415) 278-2206,San Francisco Brewing Company,4152782206,Lombard Lager,0,San Francisco
+CA,-,-,4.80,American Blonde Ale,(415) 278-2206,San Francisco Brewing Company,4152782206,Marina Blonde,0,San Francisco
+CA,-,-,7.00,American IPA,(415) 278-2206,San Francisco Brewing Company,4152782206,Niner Nation,0,San Francisco
+CA,-,-,4.50,Saison / Farmhouse Ale,(415) 278-2206,San Francisco Brewing Company,4152782206,Sunset Saison,0,San Francisco
+CA,-,-,6.50,American Pale Ale (APA),(415) 278-2206,San Francisco Brewing Company,4152782206,The City Pale Ale,0,San Francisco
+CA,-,3.09,4.50,American IPA,,Simpleton Craft Ales,,Dolores Day,4,San Francisco
+CA,-,3.69,7.88,American IPA,,Simpleton Craft Ales,,First Rye,3,San Francisco
+CA,-,-,7.80,American IPA,,Simpleton Craft Ales,,Redrum IPA,0,San Francisco
+CA,-,3.22,7.00,American IPA,,Simpleton Craft Ales,,South Of The Slot (SOS) IPA,2,San Francisco
+CA,-,-,5.00,Schwarzbier,(415) 681-0330,Social Kitchen & Brewery,4156810330,Bad Moon Spell,0,San Francisco
+CA,-,3.6,4.40,Belgian Pale Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Beach House Blonde,3,San Francisco
+CA,-,-,8.00,Weizenbock,(415) 681-0330,Social Kitchen & Brewery,4156810330,Big Muddy Weizenbock,0,San Francisco
+CA,-,4,5.50,Euro Dark Lager,(415) 681-0330,Social Kitchen & Brewery,4156810330,Black Moon Spell,1,San Francisco
+CA,-,-,5.60,American Pale Ale (APA),(415) 681-0330,Social Kitchen & Brewery,4156810330,Cas Wak Pale Ale,0,San Francisco
+CA,-,2.94,9.20,American Double / Imperial IPA,(415) 681-0330,Social Kitchen & Brewery,4156810330,Double Doozy IPA,4,San Francisco
+CA,-,3.98,8.50,American Black Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Double Midnight Lager,3,San Francisco
+CA,-,3.51,7.00,American IPA,(415) 681-0330,Social Kitchen & Brewery,4156810330,Easy IPA,8,San Francisco
+CA,-,3.75,7.50,Scotch Ale / Wee Heavy,(415) 681-0330,Social Kitchen & Brewery,4156810330,Foxy Scotcho,1,San Francisco
+CA,-,3.92,4.20,Dunkelweizen,(415) 681-0330,Social Kitchen & Brewery,4156810330,Frank,1,San Francisco
+CA,-,3.65,9.40,Belgian Strong Dark Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Frere Rouge,4,San Francisco
+CA,-,4.06,6.60,American IPA,(415) 681-0330,Social Kitchen & Brewery,4156810330,Funshine Six,3,San Francisco
+CA,-,3.68,9.30,Belgian Strong Dark Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Ghost Ride,6,San Francisco
+CA,-,3.25,5.00,American Pale Ale (APA),(415) 681-0330,Social Kitchen & Brewery,4156810330,Ha Ha Session,1,San Francisco
+CA,-,4.27,11.70,American Double / Imperial IPA,(415) 681-0330,Social Kitchen & Brewery,4156810330,Jungle Cruise,4,San Francisco
+CA,-,3.72,8.30,English Pale Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Kilderkin Bowling Rye PA,7,San Francisco
+CA,-,3.47,4.50,Belgian Dark Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,L'Enfant Terrible,8,San Francisco
+CA,-,3.61,6.60,Belgian Dark Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Moulin Rouge,1,San Francisco
+CA,-,3.62,5.70,American Pale Ale (APA),(415) 681-0330,Social Kitchen & Brewery,4156810330,Mr. Kite's Pale Ale,2,San Francisco
+CA,-,3.52,6.10,American Pale Lager,(415) 681-0330,Social Kitchen & Brewery,4156810330,New World Lager,2,San Francisco
+CA,-,3.58,4.60,Altbier,(415) 681-0330,Social Kitchen & Brewery,4156810330,Old Time Alt,3,San Francisco
+CA,-,3.49,5.20,Rye Beer,(415) 681-0330,Social Kitchen & Brewery,4156810330,Ramsgate Rye PA,4,San Francisco
+CA,-,3.75,7.80,Belgian Strong Pale Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Rapscallion,17,San Francisco
+CA,-,3.11,6.50,Herbed / Spiced Beer,(415) 681-0330,Social Kitchen & Brewery,4156810330,Sgt. Pepper,1,San Francisco
+CA,-,4.2,6.70,Saison / Farmhouse Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Simon Saison,2,San Francisco
+CA,-,3.76,4.80,German Pilsener,(415) 681-0330,Social Kitchen & Brewery,4156810330,SKB Pilsner,8,San Francisco
+CA,-,3.63,4.80,Kölsch,(415) 681-0330,Social Kitchen & Brewery,4156810330,Social Kölsch,9,San Francisco
+CA,-,-,6.40,Saison / Farmhouse Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Social/HenHouse Sterling Cross Saison,0,San Francisco
+CA,-,3.63,3.70,English Pale Mild Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Spring Time Table Beer,2,San Francisco
+CA,-,3.85,9.20,Altbier,(415) 681-0330,Social Kitchen & Brewery,4156810330,The Big Lebowski White Prussian,1,San Francisco
+CA,-,3.77,7.50,American IPA,(415) 681-0330,Social Kitchen & Brewery,4156810330,The Smell IPA,22,San Francisco
+CA,-,-,8.30,Tripel,(415) 681-0330,Social Kitchen & Brewery,4156810330,Tony Tripel,0,San Francisco
+CA,-,3.88,9.30,Tripel,(415) 681-0330,Social Kitchen & Brewery,4156810330,Tripelpagne,3,San Francisco
+CA,-,3.93,8.10,Saison / Farmhouse Ale,(415) 681-0330,Social Kitchen & Brewery,4156810330,Vidal Saison,3,San Francisco
+CA,-,3.56,4.30,English Porter,(415) 681-0330,Social Kitchen & Brewery,4156810330,Waterfront Porter,5,San Francisco
+CA,-,3.88,8.50,American Strong Ale,(415) 891-9775,Southern Pacific Brewing,4158919775,Barrel Aged American Strong,2,San Francisco
+CA,-,3.75,6.20,American Porter,(415) 891-9775,Southern Pacific Brewing,4158919775,Barrel Aged Porter,1,San Francisco
+CA,-,-,?,Belgian Pale Ale,(415) 891-9775,Southern Pacific Brewing,4158919775,Bastonge Blonde,4,San Francisco
+CA,-,3.35,4.20,Witbier,(415) 891-9775,Southern Pacific Brewing,4158919775,Belgian Wit,6,San Francisco
+CA,-,3.51,5.60,American Blonde Ale,(415) 891-9775,Southern Pacific Brewing,4158919775,California Blonde,7,San Francisco
+CA,-,3.56,6.80,American IPA,(415) 891-9775,Southern Pacific Brewing,4158919775,Extra IPA,4,San Francisco
+CA,-,3.32,?,Hefeweizen,(415) 891-9775,Southern Pacific Brewing,4158919775,Hefeweizen,5,San Francisco
+CA,-,2.56,?,Munich Helles Lager,(415) 891-9775,Southern Pacific Brewing,4158919775,Helles Lager,2,San Francisco
+CA,-,3.57,5.80,American IPA,(415) 891-9775,Southern Pacific Brewing,4158919775,India Pale Ale,16,San Francisco
+CA,-,3.8,?,Kölsch,(415) 891-9775,Southern Pacific Brewing,4158919775,Kolsch,2,San Francisco
+CA,-,3.14,4.40,American Pale Ale (APA),(415) 891-9775,Southern Pacific Brewing,4158919775,Pale Ale,11,San Francisco
+CA,-,3.08,5.50,American Porter,(415) 891-9775,Southern Pacific Brewing,4158919775,Porter,9,San Francisco
+CA,-,3.75,8.60,Belgian Strong Dark Ale,(415) 891-9775,Southern Pacific Brewing,4158919775,Winter Warmer,1,San Francisco
+CA,-,-,?,American Barleywine,(415) 934-9300,Southpaw BBQ & Southern Cooking,4159349300,Barley Wine Aged In A Hooker’s House Sour Mash Barrel,0,San Francisco
+CA,-,-,?,American Brown Ale,(415) 934-9300,Southpaw BBQ & Southern Cooking,4159349300,Big Bad Leroy Brown,0,San Francisco
+CA,-,-,?,Flanders Oud Bruin,(415) 934-9300,Southpaw BBQ & Southern Cooking,4159349300,Big Bad Leroy Brown Sour,0,San Francisco
+CA,-,-,?,American Pale Ale (APA),(415) 934-9300,Southpaw BBQ & Southern Cooking,4159349300,Pale Ale,0,San Francisco
+CA,-,-,?,American Amber / Red Ale,(415) 934-9300,Southpaw BBQ & Southern Cooking,4159349300,Roll Tide,0,San Francisco
+CA,-,3.82,4.60,American IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Baby Daddy Session IPA,84,San Francisco
+CA,-,3.85,8.20,American Amber / Red Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Betrayal Imperial Red,135,San Francisco
+CA,90,3.73,6.50,American IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Big Daddy IPA,"1,320",San Francisco
+CA,-,3.89,6.90,Milk / Sweet Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Black Hand,113,San Francisco
+CA,-,4.26,9.80,American Double / Imperial IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Blind Tiger,105,San Francisco
+CA,91,3.79,8.00,American Black Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Butchertown Black Ale,185,San Francisco
+CA,-,3.47,8.20,American Strong Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Cement Shoes,2,San Francisco
+CA,-,3.75,7.50,Herbed / Spiced Beer,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Chai Spiced Payback Porter,1,San Francisco
+CA,-,4.16,6.20,Belgian IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Cover Up,5,San Francisco
+CA,-,-,5.70,American Pale Wheat Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Discreet Wheat Ale,0,San Francisco
+CA,67,3.64,9.50,American Double / Imperial IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Double Daddy,673,San Francisco
+CA,-,4.32,9.50,American Double / Imperial IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Double Daddy Unfiltered,9,San Francisco
+CA,-,4.13,5.90,Milk / Sweet Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Harvey Milk Stout,3,San Francisco
+CA,-,4.56,9.60,English Strong Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Joe's Ale Of Strength,5,San Francisco
+CA,-,3.29,9.00,Wheatwine,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Massacre,14,San Francisco
+CA,-,3.77,5.30,American Pale Lager,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Metropolis Lager,128,San Francisco
+CA,-,3.81,9.50,American Barleywine,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Old Godfather,211,San Francisco
+CA,-,4.02,7.50,American Porter,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Payback Coffee Porter,38,San Francisco
+CA,-,3.91,7.50,American Porter,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Payback Porter,265,San Francisco
+CA,-,3.78,4.70,German Pilsener,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Pop Gun,12,San Francisco
+CA,93,3.84,6.10,American Amber / Red Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Prohibition Ale,920,San Francisco
+CA,-,4.1,7.30,American Porter,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Pumpkin Pie Payback,3,San Francisco
+CA,-,3.89,9.50,American Double / Imperial Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Scarface Imperial Stout,207,San Francisco
+CA,-,3.91,9.50,American Double / Imperial Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Scarface Imperial Stout (Bourbon Barrel Aged),72,San Francisco
+CA,-,3.71,5.50,Rye Beer,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Scarlett Red Rye,235,San Francisco
+CA,-,1.72,5.50,California Common / Steam Beer,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,SF Lager,4,San Francisco
+CA,-,3.95,9.75,American Double / Imperial Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Smokonut - Imperial Smoked Stout W/ Coconut,4,San Francisco
+CA,-,3.98,?,American Pale Lager,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Snatch Racket India Pale Lager,3,San Francisco
+CA,-,3.56,4.70,American Pale Ale (APA),(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Suds Session Ale,12,San Francisco
+CA,-,3.65,?,Milk / Sweet Stout,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Sutro Chocolate Milk Stout,6,San Francisco
+CA,-,-,10.50,American Strong Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Syndicate No. 3,4,San Francisco
+CA,-,3.7,5.60,American Pale Ale (APA),(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Tallulah Extra Pale Ale,201,San Francisco
+CA,-,3.69,7.60,Belgian Strong Dark Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Accomplice,5,San Francisco
+CA,-,3.68,6.20,Belgian IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Cover Up,3,San Francisco
+CA,-,3.92,11.10,American Double / Imperial IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Don,9,San Francisco
+CA,-,3.77,6.90,Saison / Farmhouse Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Informant,15,San Francisco
+CA,-,3.54,7.00,Belgian Pale Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Suspect Golden Ale,5,San Francisco
+CA,-,3.57,5.20,Witbier,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,The Witness,15,San Francisco
+CA,-,4.05,6.80,American IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Untouchable IPA,41,San Francisco
+CA,86,3.84,7.60,American IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Vendetta IPA,193,San Francisco
+CA,-,3.5,6.10,American Amber / Red Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Wet Hop Prohibition,1,San Francisco
+CA,-,4.08,6.50,American IPA,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,Wet Hopped Big Daddy,1,San Francisco
+CA,-,3.34,5.20,American Pale Wheat Ale,(415) 642-3371,Speakeasy Ales & Lagers,4156423371,White Lightning,59,San Francisco
+CA,-,-,?,American Blonde Ale,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Blonde Ale,0,San Francisco
+CA,-,3.63,?,American Double / Imperial IPA,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Double IPA,3,San Francisco
+CA,-,-,5.10,Irish Dry Stout,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Dry Irish Stout,0,San Francisco
+CA,-,-,6.30,English India Pale Ale (IPA),(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,English IPA,0,San Francisco
+CA,-,-,5.90,Extra Special / Strong Bitter (ESB),(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,ESB,0,San Francisco
+CA,-,3.58,5.90,American Pale Ale (APA),(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Extra Pale Ale,1,San Francisco
+CA,-,4.05,?,Irish Dry Stout,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Irish Stout,3,San Francisco
+CA,-,3.56,6.00,Maibock / Helles Bock,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Maibock,2,San Francisco
+CA,-,-,?,Rye Beer,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Rye Amber,0,San Francisco
+CA,-,-,5.50,Scottish Ale,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Scottish Ale,0,San Francisco
+CA,-,3.33,4.80,American Pale Ale (APA),(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Session IPA,2,San Francisco
+CA,-,3.86,?,American Pale Wheat Ale,(415) 571-8452,Sunset Reservoir Brewing Company,4155718452,Sour Wheat,4,San Francisco
+CA,-,4.2,8.00,American Wild Ale,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Aged Cherry Ale,1,San Francisco
+CA,-,3.76,?,Schwarzbier,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Black Bear Lager,4,San Francisco
+CA,-,3.57,6.30,English Brown Ale,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Brown Bear,25,San Francisco
+CA,-,4.12,5.50,Bière de Garde,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Farmhouse Ale,5,San Francisco
+CA,-,3.11,6.00,American Pale Ale (APA),(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Full Belly,2,San Francisco
+CA,-,3.24,8.70,Tripel,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Golden Hallucination,7,San Francisco
+CA,-,3.34,?,American Blonde Ale,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Golden Vanilla,28,San Francisco
+CA,-,3.63,?,American Amber / Red Ale,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Grizzly Bear Red Ale,9,San Francisco
+CA,-,3.75,6.80,American Double / Imperial Pilsner,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Hopfenkopf,4,San Francisco
+CA,-,3.69,7.00,American IPA,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Howard Street IPA,55,San Francisco
+CA,-,3.9,7.00,American IPA,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Howard Street IPA - Wet Hopped,1,San Francisco
+CA,-,3.66,?,American Double / Imperial Stout,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Koslov's Revenge,4,San Francisco
+CA,-,3.74,6.30,Irish Dry Stout,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Kozlov Stout,43,San Francisco
+CA,-,3.57,6.30,Extra Special / Strong Bitter (ESB),(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Meyer ESB,45,San Francisco
+CA,-,3.94,6.40,Extra Special / Strong Bitter (ESB),(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Panda Bear Ale,17,San Francisco
+CA,-,3.38,5.70,German Pilsener,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Polar Bear Pilsner,32,San Francisco
+CA,-,3.91,5.60,Roggenbier,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Roggen-bier,3,San Francisco
+CA,-,3.59,6.60,American Wild Ale,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Sour Stave,5,San Francisco
+CA,-,3.14,5.70,Witbier,(415) 974-0905,Thirsty Bear Brewing Company,4159740905,Valencia Wheat,35,San Francisco
+CA,-,-,6.20,American Pale Ale (APA),(415) 598-8811,Triple Voodoo Brewing,4155988811,2245,0,San Francisco
+CA,-,3.79,9.00,American Double / Imperial IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,8 Tentacles,17,San Francisco
+CA,-,3.77,7.50,American IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Anarchy IPA,1,San Francisco
+CA,-,4.05,5.70,Belgian Pale Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Breaka' Dawn,6,San Francisco
+CA,-,2.93,5.00,Belgian Dark Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Campine Red,3,San Francisco
+CA,-,4.12,?,American Double / Imperial IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Ef Yeah! ,1,San Francisco
+CA,-,3.22,5.60,Extra Special / Strong Bitter (ESB),(415) 598-8811,Triple Voodoo Brewing,4155988811,Hugs For Tugs,1,San Francisco
+CA,-,3.68,7.00,Oatmeal Stout,(415) 598-8811,Triple Voodoo Brewing,4155988811,King Leopold Belgian Stout,17,San Francisco
+CA,-,2.62,9.00,American Double / Imperial IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Kraken,38,San Francisco
+CA,-,3.79,5.00,Saison / Farmhouse Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Phantom Empire Grisette,2,San Francisco
+CA,-,3.75,7.30,Saison / Farmhouse Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Say Hey Saison,4,San Francisco
+CA,-,3.84,6.80,American Pale Ale (APA),(415) 598-8811,Triple Voodoo Brewing,4155988811,Stag Hop #5 - Equinox,1,San Francisco
+CA,-,-,6.40,American IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Stag Hop #6 - Galaxy,2,San Francisco
+CA,-,3.6,7.00,Saison / Farmhouse Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Symmetry Saison,1,San Francisco
+CA,-,3.55,9.00,Belgian Strong Pale Ale,(415) 598-8811,Triple Voodoo Brewing,4155988811,Triple Voodoo Grand Cru,36,San Francisco
+CA,-,3.66,8.00,Tripel,(415) 598-8811,Triple Voodoo Brewing,4155988811,Triple Voodoo Inception Belgian Style Ale,82,San Francisco
+CA,-,3.58,6.00,Belgian IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Vermillion,1,San Francisco
+CA,-,3.32,5.50,Witbier,(415) 598-8811,Triple Voodoo Brewing,4155988811,Witopia,15,San Francisco
+CA,-,4.42,7.00,American IPA,(415) 598-8811,Triple Voodoo Brewing,4155988811,Working Vacation IPA,2,San Francisco
