@@ -2,7 +2,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
-import matplotlib.pyplot as plt
 from nltk.stem import PorterStemmer
 ps = PorterStemmer()
 
