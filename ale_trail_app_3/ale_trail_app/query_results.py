@@ -57,6 +57,8 @@ def query_results(hop_range_min,hop_range_max,key_word_1,key_word_2):
         breweries.hop_mean > %s and breweries.hop_mean < %s
     AND
         (breweries.review_stems like %s AND breweries.review_stems like %s)
+    AND
+        breweries.ratings_count > 5
     ORDER BY
         breweries.avg_score desc
     limit 5;
@@ -84,6 +86,8 @@ def query_results(hop_range_min,hop_range_max,key_word_1,key_word_2):
             breweries.hop_mean > %s and breweries.hop_mean < %s
         AND
             (breweries.review_stems like %s OR breweries.review_stems like %s)
+        AND
+            breweries.ratings_count > 5
         ORDER BY
             breweries.avg_score desc
         limit 5;
@@ -109,6 +113,8 @@ def query_results(hop_range_min,hop_range_max,key_word_1,key_word_2):
                 breweries
             WHERE
                 breweries.hop_mean > %s and breweries.hop_mean < %s
+            AND
+                breweries.ratings_count > 5
             ORDER BY
                 breweries.avg_score desc
             limit 5;
@@ -123,13 +129,23 @@ def query_results(hop_range_min,hop_range_max,key_word_1,key_word_2):
     for result in results:
         results_dict = {}
         beer_dict = {}
-        beer_dict['beer_key'] = str(result[0]).encode('utf-8')
-        beer_dict['brewery_name'] = str(result[1]).encode('utf-8')
-        beer_dict['beer_style'] = str(result[2]).encode('utf-8')
-        beer_dict['beer_name'] = str(result[3]).encode('utf-8')
-        beer_dict['city'] = str(result[4]).encode('utf-8')
-        beer_dict['loc'] = str(result[5])+", "+str(result[6])
-        beer_dict['img'] =  "../static/img/beer/"+beer_dict['beer_key']+"_description.png"
+        try:
+            beer_dict['beer_key'] = str(result[0]).decode('utf-8')
+            beer_dict['brewery_name'] = str(result[1]).decode('utf-8')
+            beer_dict['beer_style'] = str(result[2]).decode('utf-8')
+            beer_dict['beer_name'] = str(result[3]).decode('utf-8')
+            beer_dict['city'] = str(result[4]).decode('utf-8')
+            beer_dict['loc'] = str(result[5])+", "+str(result[6])
+            beer_dict['img'] =  "../static/img/beer/"+beer_dict['beer_key']+"_description.png"
+        except:
+            beer_dict['beer_key'] = result[0]
+            beer_dict['brewery_name'] = result[1]
+            beer_dict['beer_style'] = result[2]
+            beer_dict['beer_name'] = result[3]
+            beer_dict['city'] = result[4]
+            beer_dict['loc'] = str(result[5])+", "+str(result[6])
+            beer_dict['img'] =  "../static/img/beer/"+beer_dict['beer_key']+"_description.png"
+
         beer_list.append(beer_dict)
         print "hop_mean:",result[7]
     results_dict['status'] = status
