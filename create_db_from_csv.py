@@ -1,16 +1,8 @@
-## Python packages - you may have to pip install sqlalchemy, sqlalchemy_utils, and psycopg2.
+#!/usr/bin/env python
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
 import pandas as pd
-
-def main():
-    print "boilerplate"
-    create_postgres_db()
-    return
-
-if __name__=="__main__":
-    main()
 
 def create_postgres_db():
     dbname = 'beer_db_2'
@@ -45,3 +37,12 @@ def create_postgres_db():
     beer_data.to_sql('reviews',engine,if_exists='replace')
     print "database",dbname,"has been created"
     return
+
+def main():
+    print "creating your database!"
+    create_postgres_db()
+    print "done!"
+    return
+
+if __name__=="__main__":
+    main()

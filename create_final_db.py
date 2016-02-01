@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
@@ -5,24 +7,6 @@ import pandas as pd
 import csv
 import numpy as np
 import operator
-from nltk.stem import WordNetLemmatizer
-wordnet_lemmatizer = WordNetLemmatizer()
-import nltk
-
-from os import path
-from PIL import Image
-import matplotlib.pyplot as plt
-
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
-
-def main():
-    print "boilerplate"
-    create_postgres_db()
-    return
-
-
-if __name__=="__main__":
-    main()
 
 def create_postgres_db():
     dbname = 'beer_final'
@@ -57,3 +41,13 @@ def create_postgres_db():
     beer_data.to_sql('reviews',engine,if_exists='replace')
     print "database",dbname,"has been created"
     return
+
+def main():
+    print 'creating database!'
+    create_postgres_db()
+    print 'done!'
+    return
+
+if __name__=="__main__":
+    main()
+
