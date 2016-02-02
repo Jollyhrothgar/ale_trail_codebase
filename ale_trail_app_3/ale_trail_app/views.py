@@ -10,7 +10,6 @@ from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 
 #Data Interface
-import pandas as pd
 import psycopg2
 
 @app.route('/')

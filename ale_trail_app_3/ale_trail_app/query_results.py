@@ -1,4 +1,5 @@
 ## Python packages - you may have to pip install sqlalchemy, sqlalchemy_utils, and psycopg2.
+#!/usr/bin/env python
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 import psycopg2
